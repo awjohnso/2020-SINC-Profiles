@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<false/>
+	<key>PII_And_Intelligent_Services_Preference</key>
+	<true/>
+	<key>PayloadDescription</key>
+	<string>Configures Microsoft Excel settings.</string>
+	<key>SendASmileEnabled</key>
+	<false/>
+	<key>SendAllTelemetryEnabled</key>
+	<false/>
+	<key>SendCrashReportsEvenWithTelemetryDisabled</key>
+	<false/>
+	<key>SignInOptions</key>
+	<integer>0</integer>
+	<key>TryDefaultPassword</key>
+	<false/>
+	<key>kFREEnterpriseTelemetryInfoKey</key>
+	<true/>
+	<key>kFREIntelligenceServicesConsentV2Key</key>
+	<true/>
+	<key>kFRETelemetryConsentKey</key>
+	<true/>
+	<key>kSubUIAppCompletedFirstRunSetup1507</key>
+	<true/>
+</dict>
+</plist>
