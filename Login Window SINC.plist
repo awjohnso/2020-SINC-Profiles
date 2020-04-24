@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+			<key>AdminHostInfo</key>
+			<string>IP</string>
+			<key>AdminMayDisableMCX</key>
+			<true/>
+			<key>AlwaysShowWorkgroupDialog</key>
+			<false/>
+			<key>ChangePasswordDisabled</key>
+			<true/>
+			<key>CombineUserWorkgroups</key>
+			<true/>
+			<key>DenyList</key>
+			<array>
+				<string>E77973E6-E71B-4E3D-AF1D-0890BF967A78</string>
+				<string>D99B4457-7F06-4606-8129-8D9720F307BE</string>
+				<string>59E2C8B7-19DE-449E-86EB-B88DECD7F4F0</string>
+				<string>025A4702-159A-4769-B245-ACC230E19AB4</string>
+				<string>02E0C286-7C39-4305-B691-4A5112C9305F</string>
+				<string>9D96BB69-E4FB-4213-8626-28046122E3B5</string>
+			</array>
+			<key>DisableConsoleAccess</key>
+			<true/>
+			<key>DisableScreenLockImmediate</key>
+			<true/>
+			<key>EnableExternalAccounts</key>
+			<false/>
+			<key>LogOutDisabledWhileLoggedIn</key>
+			<false/>
+			<key>LoginwindowText</key>
+			<string>Please use your "NetID" to log into this computer.</string>
+			<key>PowerOffDisabledWhileLoggedIn</key>
+			<true/>
+			<key>RestartDisabled</key>
+			<false/>
+			<key>RestartDisabledWhileLoggedIn</key>
+			<false/>
+			<key>RetriesUntilHint</key>
+			<integer>0</integer>
+			<key>SHOWFULLNAME</key>
+			<true/>
+			<key>ShutDownDisabled</key>
+			<true/>
+			<key>ShutDownDisabledWhileLoggedIn</key>
+			<true/>
+			<key>SleepDisabled</key>
+			<true/>
+			<key>showInputMenu</key>
+			<true/>
+	</dict>
+</plist>

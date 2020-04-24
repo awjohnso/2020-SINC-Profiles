@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>MCXDockSpecialFolders</key>
+			<array>
+				<string>AddDockMCXDocumentsFolder</string>
+				<string>AddDockMCXOriginalNetworkHomeFolder</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Dock Payload.</string>
+			<key>PayloadDisplayName</key>
+			<string>Dock Payload for Fine Arts labs.</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.fa.dock</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.dock</string>
+			<key>PayloadUUID</key>
+			<string>135B091B-AF3E-443A-9A49-A247E2368297</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>autohide</key>
+			<false/>
+			<key>contents-immutable</key>
+			<true/>
+			<key>largesize</key>
+			<integer>128</integer>
+			<key>launchanim</key>
+			<true/>
+			<key>magnification</key>
+			<true/>
+			<key>minimize-to-application</key>
+			<false/>
+			<key>minimize-to-application-immutable</key>
+			<true/>
+			<key>orientation</key>
+			<string>bottom</string>
+			<key>show-process-indicators</key>
+			<true/>
+			<key>show-recents</key>
+			<false/>
+			<key>static-apps</key>
+			<array>
+				<dict>
+					<key>mcx_typehint</key>
+					<integer>0</integer>
+					<key>tile-data</key>
+					<dict/>
+					<key>tile-type</key>
+					<string>spacer-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Safari.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Safari</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Safari</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Adobe Acrobat Reader DC.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Adobe Acrobat Reader DC</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Adobe Acrobat Reader DC</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Microsoft Word.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Microsoft Word</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Microsoft Word</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Microsoft PowerPoint.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Microsoft PowerPoint</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Microsoft PowerPoint</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Google Chrome.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Google Chrome</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Google Chrome</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Adobe Photoshop CC</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Adobe Photoshop CC</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Applications/Final Cut Pro.app</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Final Cut Pro</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Final Cut Pro</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>mcx_typehint</key>
+					<integer>0</integer>
+					<key>tile-data</key>
+					<dict/>
+					<key>tile-type</key>
+					<string>spacer-tile</string>
+				</dict>
+			</array>
+			<key>static-only</key>
+			<true/>
+			<key>static-others</key>
+			<array>
+				<dict>
+					<key>mcx_typehint</key>
+					<integer>0</integer>
+					<key>tile-data</key>
+					<dict/>
+					<key>tile-type</key>
+					<string>spacer-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Internet Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Internet Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Internet Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Graphical Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Graphical Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Graphical Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Audio Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Audio Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Audio Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Video Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Video Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Video Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Animation Applications</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Animation Applications</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Animation Applications</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>arrangement</key>
+						<integer>1</integer>
+						<key>displayas</key>
+						<integer>1</integer>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/ShortCuts/Utilities</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Utilities</string>
+						<key>file-type</key>
+						<integer>3</integer>
+						<key>label</key>
+						<string>Utilities</string>
+						<key>showas</key>
+						<integer>3</integer>
+					</dict>
+					<key>tile-type</key>
+					<string>directory-tile</string>
+				</dict>
+				<dict>
+					<key>mcx_typehint</key>
+					<integer>0</integer>
+					<key>tile-data</key>
+					<dict/>
+					<key>tile-type</key>
+					<string>spacer-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/Bookmarks/Need Help.webloc</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>Need Help.webloc</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>Need Help.webloc</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+				<dict>
+					<key>tile-data</key>
+					<dict>
+						<key>file-data</key>
+						<dict>
+							<key>_CFURLString</key>
+							<string>/Users/Shared/Bookmarks/TLT Suggestion Box.webloc</string>
+							<key>_CFURLStringType</key>
+							<integer>0</integer>
+						</dict>
+						<key>file-label</key>
+						<string>TLT Suggestion Box.webloc</string>
+						<key>file-type</key>
+						<integer>1</integer>
+						<key>label</key>
+						<string>TLT Suggestion Box.webloc</string>
+					</dict>
+					<key>tile-type</key>
+					<string>file-tile</string>
+				</dict>
+			</array>
+			<key>tilesize</key>
+			<integer>64</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Dock Payload for Fine Arts labs.</string>
+	<key>PayloadDisplayName</key>
+	<string>Dock FA</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.fa.dock</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D1F656DE-A40B-4087-809F-4E7A06F51652</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
