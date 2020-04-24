@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DoNotOfferNewDisksForBackup</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Stops Timemachine from asking to back up to newly attached drives.</string>
+			<key>PayloadDisplayName</key>
+			<string>Do Not Offer New Disks For Backup</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.TimeMachine</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.TimeMachine</string>
+			<key>PayloadUUID</key>
+			<string>39938777-9766-4033-A53E-DB887F6AF43B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Stops Timemachine from asking to back up to newly attached drives.</string>
+	<key>PayloadDisplayName</key>
+	<string>Do Not Offer New Disks For Backup</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.TimeMachine</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BC79D2B8-8F6D-487B-8B72-67FDFE9FF623</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

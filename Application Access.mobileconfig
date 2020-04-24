@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>pplication Access</string>
+			<key>PayloadDisplayName</key>
+			<string>Application Access</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.applicationaccess.new</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess.new</string>
+			<key>PayloadUUID</key>
+			<string>C5295A8F-00E5-4CD6-97D5-94EA2EBC55B6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>familyControlsEnabled</key>
+			<true/>
+			<key>pathBlackList</key>
+			<array>
+				<string>/Applications/App Store.app/</string>
+				<string>/Applications/Game Center.app/</string>
+				<string>/Applications/Home.app</string>
+				<string>/Applications/Managed Software Center.app/</string>
+				<string>/Applications/Server/</string>
+				<string>/Applications/Time Machine.app/</string>
+				<string>/Applications/Utilities/Activity Monitor.app/</string>
+				<string>/Applications/Utilities/Adobe AIR Application Installer.app/</string>
+				<string>/Applications/Utilities/Adobe AIR Uninstaller.app/</string>
+				<string>/Applications/Utilities/Adobe Installers/</string>
+				<string>/Applications/Utilities/AirPort Utility/</string>
+				<string>/Applications/Utilities/Bluetooth File Exchange.app/</string>
+				<string>/Applications/Utilities/Boot Camp Assistant.app</string>
+				<string>/Applications/Utilities/Console.app</string>
+				<string>/Applications/Utilities/Disk Utility.app</string>
+				<string>/Applications/Utilities/Keychain Access.app</string>
+				<string>/Applications/Utilities/Migration Assistant.app</string>
+				<string>/Applications/Utilities/Terminal.app</string>
+				<string>/System/Library/CoreServices/Applications/Directory Utility.app</string>
+				<string>/System/Library/CoreServices/Applications/Network Utility.app</string>
+				<string>/System/Library/CoreServices/Applications/RAID Utility.app</string>
+				<string>/System/Library/CoreServices/Applications/System Image Utility.app</string>
+				<string>/System/Library/CoreServices/Applications/Wireless Diagnostics.app</string>
+				<string>/System/Library/CoreServices/AddPrinter.app</string>
+				<string>/System/Library/CoreServices/Installer.app</string>
+				<string>/Volumes/</string>
+				<string>~/Applications</string>
+				<string>~/Desktop</string>
+				<string>~/Documents</string>
+				<string>~/Downloads</string>
+				<string>~/Music</string>
+				<string>~/Pictures</string>
+				<string>~/Public</string>
+			</array>
+			<key>pathWhiteList</key>
+			<array>
+				<string>/Library</string>
+				<string>/Applications</string>
+				<string>/System</string>
+				<string>/Users</string>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Application Access.</string>
+	<key>PayloadDisplayName</key>
+	<string>Application Access</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.applicationaccess.new</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AB8667AE-0EB9-4F77-A4A3-D0778708F4A8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowPreReleaseInstallation</key>
+			<false/>
+			<key>AutomaticCheckEnabled</key>
+			<false/>
+			<key>AutomaticDownload</key>
+			<false/>
+			<key>ConfigDataInstall</key>
+			<true/>
+			<key>CriticalUpdateInstall</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Software Update settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.SoftwareUpdate</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>DBD2054B-D696-4F49-81AC-4C84533AB380</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>restrict-software-update-require-admin-to-install</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Software Update settings.</string>
+	<key>PayloadDisplayName</key>
+	<string>Software Update</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.SoftwareUpdate</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CCAF5FA0-4728-4055-92C7-23EA01BE9E03</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

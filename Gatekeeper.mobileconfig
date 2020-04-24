@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EnableAssessment</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures System Policy: Disable Gatekeeper</string>
+			<key>PayloadDisplayName</key>
+			<string>System Policy: Gatekeeper</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.systempolicy.control</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempolicy.control</string>
+			<key>PayloadUUID</key>
+			<string>61b60448-8ca7-47be-8af1-db18ece04263</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures System Policy: Disable Gatekeeper</string>
+	<key>PayloadDisplayName</key>
+	<string>System Policy: Gatekeeper</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.systempolicy.control</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2BF128B3-CC4A-4E59-898A-171CFAB0507F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

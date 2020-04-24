@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnabledPreferencePanes</key>
+	<array>
+		<string>com.apple.preference.general</string>
+		<string>com.apple.preference.universalaccess</string>
+		<string>com.apple.preference.ink</string>
+		<string>com.apple.preference.keyboard</string>
+		<string>com.apple.preference.mouse</string>
+		<string>com.apple.preference.sound</string>
+		<string>com.apple.preference.trackpad</string>
+		<string>com.apple.preference.expose</string>
+		<string>com.apple.Localization</string>
+		<string>com.apple.preference.speech</string>
+		<string>com.apple.preference.displays</string>
+		<string>com.adobe.flashplayerpreferences</string>
+		<string>com.oracle.java.JavaControlPanel</string>
+		<string>com.wacom.settingsPrefPane</string>
+		<string>com.wacom.PenTabletSettingsPrefPane</string>
+		<string>com.wacom.ProfessionalControlPanel</string>
+		<string>com.smarttech.SMARTBoardPref</string>
+	</array>
+	<key>HiddenPreferencePanes</key>
+	<array>
+		<string>com.apple.preferences.users</string>
+		<string>com.apple.preferences.Bluetooth</string>
+		<string>com.apple.preference.digihub.discs</string>
+		<string>com.apple.preference.energysaver</string>
+		<string>com.apple.prefpanel.fibrechannel</string>
+		<string>com.apple.preferences.parentalcontrols</string>
+		<string>com.apple.preference.security</string>
+		<string>com.apple.preference.startupdisk</string>
+		<string>com.apple.preferences.icloud</string>
+		<string>com.apple.preferences.appstore</string>
+		<string>com.apple.preference.datetime</string>
+		<string>com.apple.preference.network</string>
+		<string>com.apple.preference.printfax</string>
+		<string>com.apple.preferences.sharing</string>
+		<string>com.apple.prefs.backup</string>
+		<string>com.apple.Xsan</string>
+		<string>com.apple.preference.desktopscreeneffect</string>
+		<string>com.apple.preference.dock</string>
+		<string>com.apple.preferences.extensions</string>
+		<string>com.apple.preferences.internetaccounts</string>
+		<string>com.apple.preference.internet</string>
+		<string>com.apple.preference.notifications</string>
+		<string>com.apple.preferences.configurationprofiles</string>
+		<string>com.apple.preferences.softwareupdate</string>
+		<string>com.apple.preference.spotlight</string>
+		<string>com.apple.preferences.password</string>
+		<string>com.apple.preferences.wallet</string>
+		<string>com.sassafras.KeyAccess.prefpane</string>
+	</array>
+</dict>
+</plist>

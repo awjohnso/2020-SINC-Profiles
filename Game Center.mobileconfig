@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>GKFeatureGameCenterAllowed</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Turn off Game Center settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Parental Controls: Game Center</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.gamed</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.gamed</string>
+			<key>PayloadUUID</key>
+			<string>73ad3da1-b700-4296-be61-152149d6f742</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Turn off Game Center settings.</string>
+	<key>PayloadDisplayName</key>
+	<string>Parental Controls: Game Center</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.gamed</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>657955E8-4B66-4E5D-9564-41D0127037B7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

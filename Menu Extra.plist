@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>menuExtras</key>
+		<array>
+			<string>/System/Library/CoreServices/Menu Extras/Clock.menu</string>
+			<string>/System/Library/CoreServices/Menu Extras/Displays.menu</string>
+			<string>/System/Library/CoreServices/Menu Extras/Ink.menu</string>
+			<string>/System/Library/CoreServices/Menu Extras/TextInput.menu</string>
+			<string>/System/Library/CoreServices/Menu Extras/UniversalAccess.menu</string>
+			<string>/System/Library/CoreServices/Menu Extras/Volume.menu</string>
+		</array>
+	</dict>
+</plist>

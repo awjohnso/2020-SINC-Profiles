@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DSDontWriteNetworkStores</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Prevent .DS_Store file creation on network volumes.</string>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Services</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.DSStore.com.apple.desktopservices.4B93DFEC-4ED1-46CA-BF1D-6EBC1098776C</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.desktopservices</string>
+			<key>PayloadUUID</key>
+			<string>4B93DFEC-4ED1-46CA-BF1D-6EBC1098776C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Prevent .DS_Store file creation on network volumes.</string>
+	<key>PayloadDisplayName</key>
+	<string>Prevent DS_Store </string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.DSStore</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3104735C-CF52-485A-A974-637E5FAAF2AF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoLaunchedApplicationDictionary-managed</key>
+			<array>
+				<dict>
+					<key>AuthenticateAsLoginUserShortName</key>
+					<true/>
+					<key>Hide</key>
+					<false/>
+					<key>MCX-NetworkHomeDirectoryItem</key>
+					<true/>
+				</dict>
+			</array>
+			<key>DisableLoginItemsSuppression</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Login Window: Login Items settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Login Window: Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.loginwindowItems</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginitems.managed</string>
+			<key>PayloadUUID</key>
+			<string>592E24B9-F974-472D-8549-1D2F0BBD3229</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Login Window: Login Items settings</string>
+	<key>PayloadDisplayName</key>
+	<string>Login Window: Login Items</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.loginwindowItems</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1210A6F8-5AEA-4FBC-A7AE-DCEB9C8928BF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

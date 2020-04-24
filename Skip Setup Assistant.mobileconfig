@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Setup Assistant settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Setup Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>apple.SetupAssistant.managed</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>56C06DAE-357A-426E-B53A-BA1E748AB1C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipAppearance</key>
+			<true/>
+			<key>SkipCloudSetup</key>
+			<true/>
+			<key>SkipPrivacySetup</key>
+			<true/>
+			<key>SkipSiriSetup</key>
+			<true/>
+			<key>SkipTouchIDSetup</key>
+			<true/>
+			<key>SkipTrueTone</key>
+			<true/>
+			<key>SkipiCloudStorageSetup</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Turns off the Setup Assistant</string>
+	<key>PayloadDisplayName</key>
+	<string>Skip Setup Assistant</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.SkipiCloudSetup</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>17F6D4C4-0EA9-4E45-B9F2-F1F97809EFCF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

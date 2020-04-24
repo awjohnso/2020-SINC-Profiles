@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions.</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.applicationaccess</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>55df6931-720d-40b9-b3b6-19ebc1fc52c9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAirPrint</key>
+			<false/>
+			<key>allowAirPrintiBeaconDiscovery</key>
+			<false/>
+			<key>allowAutoUnlock</key>
+			<false/>
+			<key>allowCamera</key>
+			<true/>
+			<key>allowCloudAddressBook</key>
+			<false/>
+			<key>allowCloudBTMM</key>
+			<false/>
+			<key>allowCloudBookmarks</key>
+			<false/>
+			<key>allowCloudCalendar</key>
+			<false/>
+			<key>allowCloudDocumentSync</key>
+			<false/>
+			<key>allowCloudFMM</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
+			<key>allowCloudMail</key>
+			<false/>
+			<key>allowCloudNotes</key>
+			<false/>
+			<key>allowCloudPhotoLibrary</key>
+			<false/>
+			<key>allowCloudReminders</key>
+			<false/>
+			<key>allowContentCaching</key>
+			<false/>
+			<key>allowDefinitionLookup</key>
+			<true/>
+			<key>allowDiagnosticSubmission</key>
+			<false/>
+			<key>allowFingerprintForUnlock</key>
+			<false/>
+			<key>allowMusicService</key>
+			<false/>
+			<key>allowSpotlightInternetResults</key>
+			<true/>
+			<key>allowiTunesFileSharing</key>
+			<true/>
+			<key>enforcedSoftwareUpdateDelay</key>
+			<integer>90</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures restrictions.</string>
+	<key>PayloadDisplayName</key>
+	<string>Restrictions</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.applicationaccess</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ECD34E1F-D0A8-4913-951E-AF6FC63B51BE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

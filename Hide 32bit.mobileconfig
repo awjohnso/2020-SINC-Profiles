@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CSUIDisable32BitWarning</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Hide 32bit app compatibility alert.</string>
+			<key>PayloadDisplayName</key>
+			<string>Hide 32bit app compatibility alert</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.32bit-1013</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>.GlobalPreferences</string>
+			<key>PayloadUUID</key>
+			<string>2DB619B6-2194-47B7-B2C5-5A8AF70D2A96</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>CSUIDisable32BitWarning</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Hide 32bit app compatibility alert in 10.14.</string>
+			<key>PayloadDisplayName</key>
+			<string>Hide 32bit app compatibility alert.</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.32bit-1014</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.coreservices.uiagent</string>
+			<key>PayloadUUID</key>
+			<string>4C38240B-2707-4581-BB59-0413C289969B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Hide 32bit app compatibility alert.</string>
+	<key>PayloadDisplayName</key>
+	<string>Hide 32bit app compatibility alert</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.32bit</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8E929716-CC08-4902-B418-2F3D0918E1F1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Blocks Siri's menubar icon appearing.</string>
+			<key>PayloadDisplayName</key>
+			<string>Disable Siri in Menu Bar</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.disablesirimenu</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.Siri</string>
+			<key>PayloadUUID</key>
+			<string>5D7E1384-5C4B-4959-BCBE-BF6A880AA91D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>StatusMenuVisible</key>
+			<false/>
+			<key>UserHasDeclinedEnable</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Blocks Siri's menubar icon appearing.</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Siri in Menu Bar</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.disablesirimenu</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F0DF35E5-E1A6-4A20-BD1A-05BB9C657601</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

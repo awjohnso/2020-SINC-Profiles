@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>InterfaceLevel</key>
+			<string>Full</string>
+			<key>PayloadDescription</key>
+			<string>Configures Finder settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.finder</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadUUID</key>
+			<string>2D44EF69-4705-453D-B128-09A43C397BE1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitBurn</key>
+			<false/>
+			<key>ProhibitConnectTo</key>
+			<false/>
+			<key>ProhibitEject</key>
+			<false/>
+			<key>ProhibitGoToFolder</key>
+			<true/>
+			<key>ShowExternalHardDrivesOnDesktop</key>
+			<true/>
+			<key>ShowHardDrivesOnDesktop</key>
+			<false/>
+			<key>ShowMountedServersOnDesktop</key>
+			<true/>
+			<key>ShowRemovableMediaOnDesktop</key>
+			<true/>
+			<key>WarnOnEmptyTrash</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Finder Setttings</string>
+	<key>PayloadDisplayName</key>
+	<string>Finder</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.finder</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CA59925B-F4EF-40D1-B922-923F6498656A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

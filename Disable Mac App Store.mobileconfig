@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisableSoftwareUpdateNotifications</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures App Store settings</string>
+			<key>PayloadDisplayName</key>
+			<string>App Store Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.DisableMacAppStore</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktpp and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>com.apple.appstore</string>
+			<key>PayloadUUID</key>
+			<string>FC3AC897-EEF2-4C23-A260-941DAA01A0A1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>restrict-store-disable-app-adoption</key>
+			<true/>
+			<key>restrict-store-require-admin-to-install</key>
+			<true/>
+			<key>restrict-store-softwareupdate-only</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>App Store Management</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Mac App Store</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.DisableMacAppStore</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EACFFAFD-4236-4952-98BA-346063B46530</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>MultipleSessionEnabled</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Disables Fast User Switching.</string>
+			<key>PayloadDisplayName</key>
+			<string>Disable Fast User Switching</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.stonybrook.sinc.fastuserswitching</string>
+			<key>PayloadOrganization</key>
+			<string>SBU - Desktop and Systems Engineering</string>
+			<key>PayloadType</key>
+			<string>.GlobalPreferences</string>
+			<key>PayloadUUID</key>
+			<string>222FC08B-26FB-465E-B20D-ADE49E6B9F32</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Fast User Switching.</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Fast User Switching</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.stonybrook.sinc.fastuserswitching</string>
+	<key>PayloadOrganization</key>
+	<string>SBU - Desktop and Systems Engineering</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C98AFC9E-886B-4F5B-94CA-23E607BE66BF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
